@@ -1,0 +1,33 @@
+body {
+  background: #c1fa7a;
+}
+p {
+  color: lightgreen;
+}
+h1 {
+  font-weight: bold;
+}
+
+h3 {
+  color: darkblue;
+}
+h1 {
+  color: darkcyan;
+}
+    
+h5 {
+ color: brown;
+}
+
+h2 {
+  color:darkblue;
+}
+h4 {
+  color: darkgreen;
+}
+li {
+  color: darkgoldenrod;
+}
+a {
+  color: navy;
+}
